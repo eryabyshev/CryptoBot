@@ -37,7 +37,7 @@ static def start(path){
 
         }
 
-        Thread.sleep(10000)
+        Thread.sleep(600000)
     }
 }
 

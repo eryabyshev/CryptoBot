@@ -177,6 +177,6 @@ public class SimpleBot implements IBot {
         return String.format("The order with id %s has %s. \n" +
                 "Pair: %s\n" +
                 "Price: %s\n" +
-                "Amount: %s", action, order.getOrderId(), order.getPair(), order.getPrice(), order.getAmount()));
+                "Amount: %s", action, order.getOrderId(), order.getPair(), order.getPrice(), order.getAmount());
     }
 }
